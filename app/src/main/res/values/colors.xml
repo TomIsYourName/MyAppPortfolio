@@ -5,6 +5,7 @@
   <color name="colorAccent">#FF4081</color>
 
   <color name="default_text_color">#2E3D49</color>
+  <color name="bg_buttons_in_main_page">@color/colorPrimary</color>
   <color name="capstone_button">#FF6010</color>
 
 </resources>

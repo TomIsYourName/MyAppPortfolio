@@ -8,4 +8,13 @@
     <item name="colorAccent">@color/colorAccent</item>
   </style>
 
+  <style name="CustomButtonInMainPage" parent="Widget.AppCompat.Button">
+    <item name="android:layout_width">@dimen/buttons_in_main_page_width</item>
+    <item name="android:layout_height">@dimen/buttons_in_main_page_height</item>
+    <item name="android:background">@color/bg_buttons_in_main_page</item>
+    <item name="android:padding">@dimen/buttons_in_main_page_padding</item>
+    <item name="android:layout_marginTop">@dimen/buttons_in_main_page_margin_top</item>
+    <item name="android:layout_centerHorizontal">true</item>
+  </style>
+
 </resources>
